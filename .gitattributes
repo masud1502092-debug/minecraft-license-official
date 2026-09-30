@@ -1,0 +1,14 @@
+# Generated on 2026-11-15 
+# See https://github.com/github/linguist
+*.woff2 binary
+
+*.html linguist-vendored
+go.sum linguist-generated
+
+*.yaml linguist-detectable=false
+*.min.css linguist-generated
+*.md linguist-documentation
+src/**/*.rs linguist-detectable
+
+build/* linguist-vendored
+# eof 506520be
